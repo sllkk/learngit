@@ -6,3 +6,4 @@ Creating a new branch is quick
 Test tag
 After tag
 commit 1 test
+commit 2 test
