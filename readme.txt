@@ -10,3 +10,4 @@ commit 2 test
 commit tag test
 terminal create tag ver1.0
 after create tag ver1.0 before push tag to git.
+after create tag ver1.0 after push tag to git.
